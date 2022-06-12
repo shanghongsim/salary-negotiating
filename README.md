@@ -14,7 +14,9 @@ Curated list of valuable salary negotiation advice.
 - [* Haseeb Part 2:](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 - [How to use a salary negotiation email to negotiate your starting salary](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-- [Ten Rules for Negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/)
+- [Negotiating in SV](https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+- [Candor Guide](https://candor.co/guides/salary-negotiation)
+- [Equity Compensation](https://www.holloway.com/g/equity-compensation/sections/negotiation-tips)
 
 ## Books
 

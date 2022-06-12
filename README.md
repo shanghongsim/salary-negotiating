@@ -46,7 +46,7 @@ Curated list of valuable salary negotiation advice.
 
 ## Some Tips from Recruiter
 
-**Gov Tech **
+**Gov Tech**
 
 Hey folks, a quick sharing on salary negotiation for fresh school leavers. First of all, it's important to understand if the organization you are looking at has an internal entry rate that they offer fresh graduates (HR people won't share much so better to ask people who applied or got in). If there isn't a strict entry rate, the best negotiation basis will be how your strength (backed by your past project experience) with the competencies required in the role that you applied for. Once you set negotiation from this angle, the conversation will be more towards your advantage as what you can focus on how you can value add, which is why they needed someone in to do. Hope this helps 😊
 

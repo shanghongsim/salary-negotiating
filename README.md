@@ -3,8 +3,19 @@
 Curated list of valuable salary negotiation advice.
 
 ## No Time, Read these
-- [* Haseeb Part 1:](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- [* Haseeb Part 2:](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+- [Haseeb Part 1: Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Haseeb Part 2: How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+- [How to sabotage your salary negotiations efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+> These will provide base info
+- [How Startup Options (and Ownership) Works](https://a16z.com/how-startup-options-and-ownership-works/)
+- [The Complete Guide to Understanding Equity Compensation at Tech Companies](https://fortune.com/2016/09/27/the-complete-guide-to-understanding-equity-compensation-at-tech-companies/)
+> To help you wrap your head around equity
+- [Compensation at Startups](https://quip.com/HEB3Ah9dYD6o)
+> Insight into the founders' mind
+- [Counter Offer Calculator](https://fearlesssalarynegotiation.com/salary-negotiation-script/)
+- [Level.fyi](https://www.levels.fyi/?compare=Amazon,Microsoft,Facebook&track=Software%20Engineer)
+- [Deedy's Ultimate Startup Engineering Compensation Guide](https://x.com/deedydas/status/1952594594455298127)
+> To help you develop a figure in your mind
  
 ## Articles
 
